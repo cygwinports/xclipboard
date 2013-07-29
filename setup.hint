@@ -1,4 +1,0 @@
-category: X11
-requires: font-adobe-dpi75 libX11_6 libXaw7 libxkbfile1 libXmu6 libXt6
-sdesc: "X.Org X clipboard client"
-ldesc: "X.Org X clipboard client"
